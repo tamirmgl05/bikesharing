@@ -38,4 +38,6 @@ The following heatmap shows the number of bike trips for each type of user and g
 
 ## Summary
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+In conclusion, we can easily see that there are more male customers than female customers. Moreover, the biketrip data shows that it is busier in the central area where driving and finding parking is a concern.   
+
+
